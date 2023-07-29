@@ -1,0 +1,8 @@
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\bin\Debug\Baitap_3.5.exe.config
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\bin\Debug\Baitap_3.5.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\bin\Debug\Baitap_3.5.pdb
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\obj\Debug\Baitap_3.5.csproj.AssemblyReference.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\obj\Debug\Baitap_3.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\obj\Debug\Baitap_3.5.csproj.CoreCompileInputs.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\obj\Debug\Baitap_3.5.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Mang_Ham\Baitap_3.1\Baitap_3.5\obj\Debug\Baitap_3.5.pdb
